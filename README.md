@@ -7,7 +7,7 @@ The project is designed to play the War game, as dictated by the rules given <a 
 
 To run the Aspen Capital War project locally, you'll need to follow these steps:
 
-1. Install MySQL: https://dev.mysql.com/downloads/file/?id=518834
+1. Install MySQL: <a hre="https://dev.mysql.com/downloads/file/?id=518834">MySQL</a>
 2. Open a terminal and run the following command to connect to MySQL and initialize database: 
 
 <code> mysql -u <MYSQL_USER> -p 
