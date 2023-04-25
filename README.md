@@ -35,6 +35,6 @@ You can also use the Dockerfile to create Docker image and run the application
 
 ## Reflection
 
-I actually quite enjoyed this assignment. I liked exploring how to design this game, connect a backend MySQL server to it and create Flask endpoints for the same. I also enjoyed creating a complex docker file with these layered elements. I have also deployed it to an AWS instance.
+I actually quite enjoyed this assignment. I liked exploring how to design this game, connect a backend MySQL server to it and create Flask endpoints for the same. I also enjoyed creating a complex docker file with these layered elements. 
 
-If I have more time, I'd like to make the game a little more complex and verbose, adding interactive elements to it so that users can play the game themselves and see what scores they get with detailed explanations. I'd also explore making the cloud deployment a little more flexible and easy to adapt, by making use of Kubernetes and Helm charts.
+If I have more time, I'd like to make the game a little more complex and verbose, adding interactive elements to it so that users can play the game themselves and see what scores they get with detailed explanations. I'd also explore making a cloud deployment, probably something that's a little more flexible and easy to adapt, by making use of Kubernetes and Helm charts.
